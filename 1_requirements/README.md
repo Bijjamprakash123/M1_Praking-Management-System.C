@@ -12,8 +12,8 @@
 # HR01 MAIN menu option
       1. Add vehicle
       2. Which vehicle
-      3.Take fees
-      4.Exit
+      3. Take fees
+      4. Exit
 #### LR02-HR02 Output screen will display vehicle
 #### LR03-HR03 Enter vehicle number
 #### LR04-HR04 ENTER parking fees and date 
